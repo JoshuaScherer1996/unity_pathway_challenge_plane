@@ -4,6 +4,7 @@ namespace Challenge_1.Scripts
 {
     public class PlayerControllerX : MonoBehaviour
     {
+        // Declaring and initializing the variables.
         public float speed;
         public float rotationSpeed;
         public float verticalInput;
